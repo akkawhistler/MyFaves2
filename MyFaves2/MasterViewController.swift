@@ -2,7 +2,7 @@
 //  MasterViewController.swift
 //  MyFaves2
 //
-//  Created by Charles Konkol on 9/11/17.
+//  Created by Curtis Conard on 9/11/17.
 //  Copyright © 2018 RockValleyCollege. All rights reserved.
 //  Updated 9/9/18
 
